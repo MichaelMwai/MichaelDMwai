@@ -11,7 +11,7 @@ h2 {
   color: black;
   font-weight: normal;
   margin: 0;
-  padding-top: 20px;
+  padding-top: 30px;
 
 }
 
@@ -22,11 +22,12 @@ h1 {
   font-size: 300%;
   color: #1B2430;
 }
-hr {
+/* hr {
   border-style: none;
   border-top: 8px dotted #C3DDFD;
   width: 20%;
-}
+  margin: auto;
+} */
 a{
   margin: 0 20px 0 20px;
   text-decoration: none;
@@ -62,7 +63,7 @@ a:hover{
 }
 
 .mountain {
-  bottom: 0;
+  padding-bottom: 100px;
 }
 .top-cloud {
   position: absolute;
